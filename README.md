@@ -2,7 +2,7 @@
 
 A production-style REST API for managing a library's book catalog, user accounts, and the full book issue/return workflow — built with **FastAPI**, **SQLAlchemy**, and **MySQL**.
 
-Built as a backend portfolio project to demonstrate Python, SQL, REST API design, clean OOP structure, and JWT-based auth in a real (not toy) codebase.
+Built as a backend portfolio project to demonstrate Python, SQL, REST API design, clean OOP structure, and JWT-based auth in a real codebase.
 
 ## Features
 
